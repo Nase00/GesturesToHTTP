@@ -1,2 +1,1 @@
-# GesturesToHTTP
-Fork of Microsoft's DiscreteGestureBasics, implementing mapping gestures to HTTP requests
+﻿Forked from the [DiscreteGestureBasics](https://channel9.msdn.com/Blogs/k4wdev/Custom-Gestures-End-to-End-with-Kinect-and-Visual-Gesture-Builder) example by Microsoft.
